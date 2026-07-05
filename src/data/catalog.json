@@ -1,0 +1,600 @@
+[{
+  "jenis": "Organik",
+  "nama": "Minyak Jelantah",
+  "judul": "Lilin Aromaterapi dari Minyak Jelantah",
+  "alat_bahan": [
+    "Minyak jelantah yang telah disaring",
+    "Parafin atau stearin",
+    "Sumbu lilin",
+    "Gelas kaca kecil",
+    "Pewangi (opsional)",
+    "Panci"
+  ],
+  "langkah": [
+    "Saring minyak jelantah menggunakan kain halus agar bersih dari sisa makanan.",
+    "Lelehkan parafin atau stearin menggunakan metode tim.",
+    "Campurkan minyak jelantah ke dalam parafin yang telah meleleh sambil diaduk hingga merata.",
+    "Tambahkan pewangi jika diinginkan.",
+    "Pasang sumbu lilin di tengah wadah kaca.",
+    "Tuangkan campuran ke dalam wadah secara perlahan.",
+    "Diamkan hingga mengeras selama 4 sampai 6 jam sebelum digunakan."
+  ],
+  "gambar": "/images/minyak-jelantah.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Minyak Jelantah",
+  "judul": "Sabun Cuci Padat dari Minyak Jelantah",
+  "alat_bahan": [
+    "Minyak jelantah yang telah disaring",
+    "Natrium hidroksida (NaOH)",
+    "Air",
+    "Cetakan sabun",
+    "Pengaduk",
+    "Sarung tangan"
+  ],
+  "langkah": [
+    "Gunakan sarung tangan dan masker selama proses pembuatan.",
+    "Saring minyak jelantah hingga bersih.",
+    "Larutkan NaOH ke dalam air sesuai takaran, kemudian biarkan hingga dingin.",
+    "Campurkan larutan NaOH ke dalam minyak sambil diaduk hingga mengental.",
+    "Tuang adonan ke dalam cetakan sabun.",
+    "Diamkan selama 24 jam hingga mengeras.",
+    "Keringkan sabun selama 3 sampai 4 minggu sebelum digunakan."
+  ],
+  "gambar": "/images/sabun-jelantah.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Minyak Jelantah",
+  "judul": "Biodiesel Sederhana dari Minyak Jelantah",
+  "alat_bahan": [
+    "Minyak jelantah",
+    "Metanol",
+    "Katalis NaOH",
+    "Wadah tahan panas",
+    "Pengaduk"
+  ],
+  "langkah": [
+    "Saring minyak jelantah hingga bersih.",
+    "Panaskan minyak pada suhu sekitar 55°C.",
+    "Campurkan metanol dan katalis sesuai perbandingan yang diperlukan.",
+    "Masukkan campuran tersebut ke dalam minyak sambil diaduk selama kurang lebih 1 jam.",
+    "Diamkan hingga terbentuk dua lapisan.",
+    "Pisahkan biodiesel dari gliserol.",
+    "Lakukan pencucian biodiesel sebelum digunakan."
+  ],
+  "gambar": "/images/biodiesel.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Sampah Makanan",
+  "judul": "Kompos dari Sampah Makanan",
+  "alat_bahan": [
+    "Sampah sayur dan buah",
+    "EM4",
+    "Air",
+    "Ember bertutup",
+    "Pengaduk"
+  ],
+  "langkah": [
+    "Pisahkan sampah organik dari plastik dan logam.",
+    "Potong sampah menjadi ukuran kecil.",
+    "Campurkan EM4 dengan air sesuai petunjuk.",
+    "Masukkan sampah ke dalam ember lalu siram dengan larutan EM4.",
+    "Aduk hingga merata.",
+    "Tutup ember dan aduk kembali setiap 3 hari.",
+    "Setelah sekitar 3 sampai 4 minggu kompos siap digunakan."
+  ],
+  "gambar": "/images/kompos-makanan.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Sampah Makanan",
+  "judul": "Eco Enzyme dari Sampah Buah dan Sayur",
+  "alat_bahan": [
+    "Kulit buah dan sayur",
+    "Gula merah",
+    "Air",
+    "Jerigen atau botol besar"
+  ],
+  "langkah": [
+    "Masukkan air ke dalam wadah.",
+    "Tambahkan gula merah lalu aduk hingga larut.",
+    "Masukkan kulit buah dan sayur.",
+    "Tutup wadah tetapi sisakan sedikit ruang udara.",
+    "Buka tutup wadah setiap hari selama bulan pertama untuk mengeluarkan gas.",
+    "Fermentasikan selama kurang lebih 3 bulan.",
+    "Saring cairan dan simpan dalam botol."
+  ],
+  "gambar": "/images/eco-enzyme.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Sampah Makanan",
+  "judul": "Pupuk Cair Organik dari Sampah Makanan",
+  "alat_bahan": [
+    "Sampah organik",
+    "EM4",
+    "Air",
+    "Ember bertutup",
+    "Saringan"
+  ],
+  "langkah": [
+    "Potong sampah organik menjadi bagian kecil.",
+    "Masukkan ke dalam ember.",
+    "Tambahkan larutan EM4 dan air.",
+    "Tutup rapat ember selama 10 sampai 14 hari.",
+    "Aduk setiap dua hari sekali.",
+    "Saring cairan hasil fermentasi.",
+    "Encerkan pupuk sebelum disiramkan ke tanaman."
+  ],
+  "gambar": "/images/pupuk-cair.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Daun Kering",
+  "judul": "Kompos dari Daun Kering",
+  "alat_bahan": [
+    "Daun kering",
+    "EM4",
+    "Air",
+    "Komposter",
+    "Sekop kecil"
+  ],
+  "langkah": [
+    "Kumpulkan daun kering dan bersihkan dari sampah anorganik.",
+    "Cacah daun menjadi bagian kecil agar lebih cepat terurai.",
+    "Masukkan daun ke dalam komposter.",
+    "Semprotkan larutan EM4 yang telah dicampur air.",
+    "Aduk setiap 5 hingga 7 hari.",
+    "Jaga kelembapan agar tidak terlalu kering maupun terlalu basah.",
+    "Setelah 1 sampai 2 bulan, kompos siap digunakan."
+  ],
+  "gambar": "/images/daun-kompos.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Daun Kering",
+  "judul": "Mulsa Tanaman dari Daun Kering",
+  "alat_bahan": [
+    "Daun kering",
+    "Gunting tanaman"
+  ],
+  "langkah": [
+    "Pilih daun yang bersih dan bebas jamur.",
+    "Potong daun menjadi ukuran kecil.",
+    "Sebarkan daun di sekitar pangkal tanaman.",
+    "Sisakan sedikit ruang di sekitar batang tanaman.",
+    "Tambahkan daun baru apabila mulsa mulai terurai."
+  ],
+  "gambar": "/images/mulsa-daun.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Daun Kering",
+  "judul": "Briket Biomassa dari Daun Kering",
+  "alat_bahan": [
+    "Daun kering",
+    "Tepung tapioka",
+    "Air",
+    "Cetakan briket"
+  ],
+  "langkah": [
+    "Keringkan daun hingga benar-benar kering.",
+    "Haluskan daun menggunakan blender atau penumbuk.",
+    "Campurkan dengan larutan tepung tapioka sebagai perekat.",
+    "Aduk hingga menjadi adonan.",
+    "Cetak menggunakan cetakan briket.",
+    "Jemur hingga kering sempurna.",
+    "Briket siap digunakan sebagai bahan bakar."
+  ],
+  "gambar": "/images/briket-daun.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Ampas Kopi",
+  "judul": "Pupuk Organik dari Ampas Kopi",
+  "alat_bahan": [
+    "Ampas kopi",
+    "Kompos",
+    "Tanah"
+  ],
+  "langkah": [
+    "Keringkan ampas kopi di bawah sinar matahari.",
+    "Campurkan dengan tanah dan kompos.",
+    "Aduk hingga tercampur rata.",
+    "Diamkan selama beberapa hari.",
+    "Gunakan sebagai pupuk tambahan pada tanaman."
+  ],
+  "gambar": "/images/ampas-pupuk.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Ampas Kopi",
+  "judul": "Pengharum Ruangan dari Ampas Kopi",
+  "alat_bahan": [
+    "Ampas kopi",
+    "Kain kasa atau kantong kain",
+    "Pita"
+  ],
+  "langkah": [
+    "Keringkan ampas kopi hingga benar-benar kering.",
+    "Masukkan ke dalam kantong kain.",
+    "Ikat menggunakan pita.",
+    "Letakkan di lemari, mobil, atau ruangan.",
+    "Ganti ampas apabila aroma mulai berkurang."
+  ],
+  "gambar": "/images/ampas-aroma.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Ampas Kopi",
+  "judul": "Scrub Tubuh Alami dari Ampas Kopi",
+  "alat_bahan": [
+    "Ampas kopi",
+    "Minyak kelapa",
+    "Madu",
+    "Mangkuk"
+  ],
+  "langkah": [
+    "Pastikan ampas kopi dalam keadaan bersih.",
+    "Campurkan ampas kopi dengan minyak kelapa.",
+    "Tambahkan sedikit madu.",
+    "Aduk hingga membentuk pasta.",
+    "Gunakan sebagai scrub saat mandi.",
+    "Bilas menggunakan air bersih."
+  ],
+  "gambar": "/images/ampas-scrub.jpg"
+},{
+  "jenis": "Organik",
+  "nama": "Baglog Bekas Jamur",
+  "judul": "Kompos dari Baglog Bekas Jamur",
+  "alat_bahan": [
+    "Baglog bekas jamur",
+    "EM4",
+    "Air",
+    "Komposter",
+    "Sekop"
+  ],
+  "langkah": [
+    "Pisahkan plastik pembungkus dari media baglog.",
+    "Hancurkan media baglog hingga menjadi butiran halus.",
+    "Masukkan media ke dalam komposter.",
+    "Campurkan larutan EM4 dan air hingga media menjadi lembap.",
+    "Aduk hingga semua bahan tercampur merata.",
+    "Tutup komposter dan aduk setiap 5 sampai 7 hari.",
+    "Setelah sekitar 30 sampai 45 hari kompos siap digunakan."
+  ],
+  "gambar": "/images/baglog-kompos.jpg"
+},
+{
+  "jenis": "Organik",
+  "nama": "Baglog Bekas Jamur",
+  "judul": "Briket Biomassa dari Baglog Bekas",
+  "alat_bahan": [
+    "Baglog bekas jamur",
+    "Tepung tapioka",
+    "Air",
+    "Cetakan briket"
+  ],
+  "langkah": [
+    "Jemur baglog bekas hingga benar-benar kering.",
+    "Haluskan baglog menggunakan blender atau penumbuk.",
+    "Campurkan dengan larutan tepung tapioka sebagai perekat.",
+    "Aduk hingga menjadi adonan padat.",
+    "Cetak menggunakan cetakan briket.",
+    "Jemur kembali hingga kadar air rendah.",
+    "Briket siap digunakan sebagai bahan bakar alternatif."
+  ],
+  "gambar": "/images/baglog-briket.jpeg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Plastik Baglog",
+  "judul": "Pot Tanaman dari Plastik Baglog",
+  "alat_bahan": [
+    "Plastik baglog bekas",
+    "Gunting",
+    "Cat",
+    "Kuas"
+  ],
+  "langkah": [
+    "Cuci plastik baglog hingga bersih dari sisa media tanam.",
+    "Keringkan hingga tidak ada air yang tersisa.",
+    "Potong bagian atas plastik sesuai bentuk pot.",
+    "Buat beberapa lubang kecil di bagian bawah sebagai saluran air.",
+    "Cat bagian luar agar terlihat menarik.",
+    "Isi dengan media tanam dan tanaman hias."
+  ],
+  "gambar": "/images/plastikbaglog-pot.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Plastik Baglog",
+  "judul": "Polybag Tanam dari Plastik Baglog",
+  "alat_bahan": [
+    "Plastik baglog bekas",
+    "Pelubang",
+    "Gunting"
+  ],
+  "langkah": [
+    "Bersihkan plastik baglog dari sisa media.",
+    "Potong bagian yang rusak apabila diperlukan.",
+    "Buat beberapa lubang kecil pada bagian bawah sebagai drainase.",
+    "Isi dengan campuran tanah dan kompos.",
+    "Gunakan sebagai wadah pembibitan tanaman."
+  ],
+  "gambar": "/images/plastikbaglog-polybag.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Plastik Baglog",
+  "judul": "Tas Belanja Sederhana dari Plastik Baglog",
+  "alat_bahan": [
+    "Plastik baglog bekas",
+    "Gunting",
+    "Benang",
+    "Jarum"
+  ],
+  "langkah": [
+    "Cuci plastik baglog hingga benar-benar bersih.",
+    "Potong sesuai pola tas sederhana.",
+    "Satukan setiap sisi menggunakan jahitan yang kuat.",
+    "Buat pegangan tas dari sisa plastik yang lebih tebal.",
+    "Periksa kembali setiap jahitan agar tidak mudah sobek.",
+    "Tas siap digunakan untuk membawa barang ringan."
+  ],
+  "gambar": "/images/plastikbaglog-tas.jpg"
+},{
+  "jenis": "Anorganik",
+  "nama": "Botol Plastik",
+  "judul": "Pot Tanaman Gantung dari Botol Plastik",
+  "alat_bahan": [
+    "Botol plastik bekas",
+    "Gunting atau cutter",
+    "Tali",
+    "Paku",
+    "Cat (opsional)"
+  ],
+  "langkah": [
+    "Cuci botol hingga bersih dan keringkan.",
+    "Potong bagian samping botol membentuk lubang tanam.",
+    "Buat beberapa lubang kecil di bagian bawah sebagai saluran air.",
+    "Lubangi kedua sisi botol untuk memasang tali.",
+    "Cat botol sesuai selera dan biarkan mengering.",
+    "Masukkan media tanam lalu tanam tanaman.",
+    "Gantung pot pada tempat yang terkena sinar matahari."
+  ],
+  "gambar": "/images/botol-pot.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Botol Plastik",
+  "judul": "Tempat Pensil dari Botol Plastik",
+  "alat_bahan": [
+    "Botol plastik bekas",
+    "Gunting",
+    "Cat akrilik",
+    "Kuas",
+    "Amplas halus"
+  ],
+  "langkah": [
+    "Bersihkan botol dari label dan kotoran.",
+    "Potong botol sesuai tinggi tempat pensil yang diinginkan.",
+    "Haluskan bagian potongan menggunakan amplas.",
+    "Cat bagian luar botol sesuai desain yang diinginkan.",
+    "Biarkan cat mengering sempurna.",
+    "Tempat pensil siap digunakan."
+  ],
+  "gambar": "/images/botol-pensil.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Botol Plastik",
+  "judul": "Vertical Garden dari Botol Plastik",
+  "alat_bahan": [
+    "Beberapa botol plastik",
+    "Tali nilon",
+    "Gunting",
+    "Paku",
+    "Media tanam"
+  ],
+  "langkah": [
+    "Cuci seluruh botol hingga bersih.",
+    "Potong bagian samping setiap botol sebagai tempat tanaman.",
+    "Buat lubang drainase di bagian bawah.",
+    "Lubangi bagian atas dan bawah untuk memasang tali.",
+    "Susun botol secara vertikal menggunakan tali.",
+    "Isi media tanam dan bibit tanaman.",
+    "Gantung vertical garden pada dinding atau pagar."
+  ],
+  "gambar": "/images/botol-vertical.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kaleng",
+  "judul": "Pot Tanaman dari Kaleng Bekas",
+  "alat_bahan": [
+    "Kaleng bekas",
+    "Paku",
+    "Palu",
+    "Cat",
+    "Kuas"
+  ],
+  "langkah": [
+    "Cuci kaleng hingga bersih.",
+    "Buat beberapa lubang pada bagian bawah menggunakan paku dan palu.",
+    "Keringkan kaleng.",
+    "Cat bagian luar sesuai warna yang diinginkan.",
+    "Biarkan hingga cat mengering.",
+    "Isi media tanam dan tanaman."
+  ],
+  "gambar": "/images/kaleng-pot.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kaleng",
+  "judul": "Tempat Alat Tulis dari Kaleng Bekas",
+  "alat_bahan": [
+    "Kaleng bekas",
+    "Cat",
+    "Kuas",
+    "Kain flanel",
+    "Lem"
+  ],
+  "langkah": [
+    "Bersihkan kaleng hingga tidak ada sisa makanan.",
+    "Haluskan bagian tepi yang tajam.",
+    "Cat permukaan luar kaleng.",
+    "Tempel kain flanel sebagai hiasan menggunakan lem.",
+    "Diamkan hingga seluruh bagian benar-benar kering.",
+    "Gunakan sebagai tempat alat tulis."
+  ],
+  "gambar": "/images/kaleng-pensil.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kaleng",
+  "judul": "Lampu Hias dari Kaleng Bekas",
+  "alat_bahan": [
+    "Kaleng bekas",
+    "Paku",
+    "Palu",
+    "Cat",
+    "Lampu LED kecil"
+  ],
+  "langkah": [
+    "Cuci dan keringkan kaleng.",
+    "Buat pola lubang menggunakan paku dan palu.",
+    "Cat bagian luar kaleng dan tunggu hingga kering.",
+    "Masukkan lampu LED ke dalam kaleng.",
+    "Nyalakan lampu untuk menghasilkan efek cahaya dari lubang-lubang pada kaleng.",
+    "Letakkan sebagai dekorasi ruangan."
+  ],
+  "gambar": "/images/kaleng-lampu.jpg"
+},{
+  "jenis": "Anorganik",
+  "nama": "Kardus",
+  "judul": "Organizer Meja dari Kardus Bekas",
+  "alat_bahan": [
+    "Kardus bekas",
+    "Penggaris",
+    "Pensil",
+    "Cutter",
+    "Lem",
+    "Kertas kado"
+  ],
+  "langkah": [
+    "Buat desain organizer pada kardus menggunakan pensil.",
+    "Potong seluruh bagian mengikuti pola yang telah dibuat.",
+    "Rekatkan setiap bagian menggunakan lem hingga membentuk organizer.",
+    "Biarkan lem mengering sempurna.",
+    "Lapisi permukaan dengan kertas kado agar lebih menarik.",
+    "Organizer siap digunakan untuk menyimpan alat tulis atau perlengkapan meja."
+  ],
+  "gambar": "/images/kardus-organizer.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kardus",
+  "judul": "Rak Mini dari Kardus Bekas",
+  "alat_bahan": [
+    "Kardus tebal",
+    "Lem tembak",
+    "Cutter",
+    "Penggaris",
+    "Cat"
+  ],
+  "langkah": [
+    "Ukur ukuran rak yang akan dibuat.",
+    "Potong kardus sesuai ukuran.",
+    "Susun beberapa lapisan kardus agar rak lebih kokoh.",
+    "Rekatkan menggunakan lem tembak.",
+    "Cat atau lapisi dengan kertas agar lebih rapi.",
+    "Rak mini siap digunakan."
+  ],
+  "gambar": "/images/kardus-rak.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kardus",
+  "judul": "Rumah Kucing dari Kardus Bekas",
+  "alat_bahan": [
+    "Kardus besar",
+    "Cutter",
+    "Lem",
+    "Selimut kecil"
+  ],
+  "langkah": [
+    "Pilih kardus yang masih kuat.",
+    "Buat lubang sebagai pintu masuk.",
+    "Rekatkan bagian yang longgar menggunakan lem.",
+    "Tambahkan alas berupa kain atau selimut kecil.",
+    "Pastikan rumah cukup kokoh sebelum digunakan.",
+    "Rumah kucing siap dipakai."
+  ],
+  "gambar": "/images/kardus-kucing.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kertas",
+  "judul": "Kertas Daur Ulang Handmade",
+  "alat_bahan": [
+    "Kertas bekas",
+    "Air",
+    "Blender",
+    "Bingkai saringan",
+    "Kain"
+  ],
+  "langkah": [
+    "Sobek kertas menjadi potongan kecil.",
+    "Rendam selama beberapa jam.",
+    "Blender hingga menjadi bubur kertas.",
+    "Tuangkan ke dalam wadah berisi air.",
+    "Cetak menggunakan bingkai saringan.",
+    "Tekan menggunakan kain agar air berkurang.",
+    "Jemur hingga kering."
+  ],
+  "gambar": "/images/kertas-daurulang.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kertas",
+  "judul": "Bingkai Foto dari Kertas Bekas",
+  "alat_bahan": [
+    "Kertas atau majalah bekas",
+    "Karton",
+    "Lem",
+    "Gunting"
+  ],
+  "langkah": [
+    "Potong karton sesuai ukuran foto.",
+    "Gulung atau lipat kertas bekas sebagai hiasan.",
+    "Tempel hiasan pada karton menggunakan lem.",
+    "Buat penyangga di bagian belakang.",
+    "Masukkan foto ke dalam bingkai.",
+    "Bingkai siap dipajang."
+  ],
+  "gambar": "/images/bingkai-kertas.jpg"
+},
+{
+  "jenis": "Anorganik",
+  "nama": "Kaca",
+  "judul": "Vas Bunga dari Botol Kaca Bekas",
+  "alat_bahan": [
+    "Botol kaca bekas",
+    "Cat kaca",
+    "Kuas",
+    "Pita hias"
+  ],
+  "langkah": [
+    "Cuci botol hingga bersih.",
+    "Keringkan seluruh permukaannya.",
+    "Cat bagian luar sesuai desain yang diinginkan.",
+    "Biarkan cat mengering sempurna.",
+    "Tambahkan pita atau hiasan.",
+    "Gunakan sebagai vas bunga."
+  ],
+  "gambar": "/images/kaca-vas.jpeg"
+}]

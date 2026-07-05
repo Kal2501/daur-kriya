@@ -1,0 +1,34 @@
+[
+  {
+    "nama": "Kardus",
+    "harga": 3000
+  },
+  {
+    "nama": "Botol Plastik",
+    "harga": 5000
+  },
+  {
+    "nama": "Kaleng",
+    "harga": 8000
+  },
+  {
+    "nama": "Kertas",
+    "harga": 2500
+  },
+  {
+    "nama": "Kaca",
+    "harga": 1500
+  },
+  {
+    "nama": "Minyak Jelantah",
+    "harga": 6000
+  },
+  {
+    "nama": "Daun Kering",
+    "harga": 2000
+  },
+  {
+    "nama": "Sampah Makanan",
+    "harga": 2500
+  }
+]
