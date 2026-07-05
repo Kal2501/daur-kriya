@@ -10,6 +10,8 @@ function CatalogCard({ item }) {
             src={item.gambar}
             alt={item.nama}
             className="lg:w-full lg:h-full w-full h-60 object-cover group-hover:scale-105 transition duration-500"
+            loading="lazy"
+            decoding="async"
           />
 
         </div>

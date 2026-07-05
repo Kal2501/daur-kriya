@@ -45,6 +45,8 @@ function Navbar() {
                 src={logoImage}
                 alt="Logo"
                 className="rounded-3xl w-36"
+                loading="eager"
+                decoding="async"
             />
           
         </NavLink>

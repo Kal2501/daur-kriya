@@ -13,6 +13,8 @@ function About() {
               src={sayaImage}
               alt=""
               className="rounded-2xl lg:w-md"
+              loading="lazy"
+              decoding="async"
             />
 
 

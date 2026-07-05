@@ -43,12 +43,15 @@ function Hero() {
 
         </div>
 
-        <div className="flex justify-center">
+        <div className="hidden lg:flex justify-center">
 
           <img
             src={heroImage}
             alt=""
-            className="rounded-3xl shadow-2xl w-full max-w-md hidden lg:block"
+            className="rounded-3xl shadow-2xl w-full max-w-md"
+            loading="eager"
+            fetchPriority="high"
+            decoding="async"
           />
 
         </div>
