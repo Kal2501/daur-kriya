@@ -78,7 +78,7 @@ function CalculatorResult({ total }) {
       <section className="mt-8 lg:mt-10 rounded-3xl bg-white/30 dark:bg-zinc-900/70 backdrop-blur-xl shadow-xl p-4 lg:p-8">
         <div className="flex items-center gap-3 mb-4 lg:mb-6">
           <MapPin className="text-lime-700" size={24} />
-          <h3 className="text-xl lg:text-3xl font-bold text-lime-900 dark:text-lime-200">
+          <h3 className="text-xl lg:text-3xl font-bold text-lime-900 dark:text-white">
             Bank Sampah di Sekitar Sangatta
           </h3>
         </div>
@@ -103,7 +103,7 @@ function CalculatorResult({ total }) {
 
                 <div className="flex h-full flex-col justify-center text-left">
                   <div>
-                    <h4 className="text-lg lg:text-2xl font-bold text-lime-900 dark:text-lime-100">
+                    <h4 className="text-lg lg:text-2xl font-bold text-lime-900 dark:text-white">
                       {bank.nama}
                     </h4>
 
