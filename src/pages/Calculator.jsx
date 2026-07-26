@@ -9,6 +9,11 @@ function Calculator() {
   const [hasil, setHasil] = useState(null);
   const isFormComplete = nama !== "" && berat !== "";
 
+  function handleBeratChange(e) {
+    const onlyDigits = e.target.value.replace(/\D/g, "");
+    setBerat(onlyDigits);
+  }
+
   function hitungHarga() {
 
     let harga = 0;
@@ -62,10 +67,12 @@ function Calculator() {
         </select>
 
         <input
-          type="number"
+          type="text"
+          inputMode="numeric"
+          pattern="[0-9]*"
           placeholder="Masukkan berat (kg)"
           value={berat}
-          onChange={(e) => setBerat(e.target.value)}
+          onChange={handleBeratChange}
           className="w-full rounded-2xl border border-lime-300 bg-white/50 dark:bg-zinc-900/50 backdrop-blur-xl p-5 text-lg shadow-lg"
         />
 
